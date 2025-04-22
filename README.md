@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/GaneshBorse/GaneshBorse/assets/placeholder/ai-banner.png" alt="AI Engineer in Progress Banner" width="100%" />
-</p>
+
 
 <h1 align="center">Hi, I'm Ganesh! 👋</h1>
 
