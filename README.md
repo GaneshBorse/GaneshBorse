@@ -21,7 +21,7 @@ I'm currently diving deep into:
 ---
 
 ### 🚀 Current Focus
-- ✅ Following a structured 3-month AI roadmap
+- ✅ Following a structured 3-month AI Engineer roadmap
 - ✅ Practicing DSA regularly via LeetCode
 - ✅ Sharing progress on social platforms (LinkedIn, Insta)
 
