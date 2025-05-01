@@ -13,14 +13,14 @@
 ---
 
 ### 🚀 Current Focus
-- 📘 **Learning**: Python, CoreMath (Linear Algebra,Calculus,PSA), Machine Learning Foundations , AI ,MLOps
+- 📘 **Learning**: Python, CoreMath (Linear Algebra,Calculus,PSA), Machine Learning Foundations , AI Professional Certificate Course From IBM ,MLOps
 - 🧠 **Solving**: DSA in C++ on LeetCode  
 - 🎯 **Goal**: Build real skills → portfolio → job-ready AI Engineer
 
 ---
 
 ### 📚 Learning Journey
-- 🔗 [AI Engineering Roadmap](https://github.com/GaneshBorse/AI-Engineer-Roadmap)  
+- 🔗 [AI Roadmap](https://github.com/GaneshBorse/AI-Roadmap)  
 - 🔗 [LeetCode Tracker](https://leetcode.com/your-id/)  
 - 🔗 [Mini Projects](https://github.com/GaneshBorse?tab=repositories)
 
