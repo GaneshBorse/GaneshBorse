@@ -22,7 +22,7 @@
 ### 📚 Learning Journey
 - 🔗 [AI Engineering Roadmap](https://github.com/GaneshBorse/ai-learning-journey)  
 - 🔗 [LeetCode Tracker](https://leetcode.com/your-id/)  
-- 🔗 [Mini Projects](https://github.com/your-username?tab=repositories)
+- 🔗 [Mini Projects](https://github.com/GaneshBorse?tab=repositories)
 
 ---
 
