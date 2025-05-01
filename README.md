@@ -8,61 +8,53 @@
 
 ---
 
-### 🧠 About Me
-🎯 **Aspiring AI Engineer | Learning DSA | Learning in Public**
-
-I'm currently diving deep into:
-- 🤖 AI Engineer Roadmap (Python, Math, Machine Learning)
-- 📘 DSA in C++ (Targeting Product Based )
-- 🛠️ Building small projects + solving coding problems
-
-🎯 Goal: **Land my first AI internship or job by mastering core concepts and documenting my journey.**
+**🌱 AI Engineer in Progress | Learning deeply, building quietly**
 
 ---
 
 ### 🚀 Current Focus
-- ✅ Following a structured 3-month AI Engineer roadmap
-- ✅ Practicing DSA regularly via LeetCode
-- ✅ Sharing progress on social platforms (LinkedIn, Insta)
+- 📘 **Learning**: Python, CoreMath (Linear Algebra,Calculus,PSA), Machine Learning Foundations , AI ,MLOps
+- 🧠 **Solving**: DSA in C++ on LeetCode  
+- 🎯 **Goal**: Build real skills → portfolio → job-ready AI Engineer
 
 ---
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-orange?style=flat-square)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+### 📚 Learning Journey
+- 🔗 [AI Engineering Roadmap](https://github.com/GaneshBorse/ai-learning-journey)  
+- 🔗 [LeetCode Tracker](https://leetcode.com/your-id/)  
+- 🔗 [Mini Projects](https://github.com/your-username?tab=repositories)
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GaneshBorse&show_icons=true&theme=default&hide=issues&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshBorse&layout=compact&theme=default" height="160"/>
-</p>
+### 🧰 Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=python,cpp,git,vscode,linux,github,scikit-learn,tensorflow&perline=8" alt="Tech Stack" />
 
 ---
 
-### 📊 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GaneshBorse&theme=default" alt="GitHub activity graph" />
-</p>
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GaneshBorse&show_icons=true&theme=default&hide_title=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshBorse&theme=default&hide_border=true" width="48%" />
+</div>
 
 ---
 
-### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekanex/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/code.ganesh.borse_/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/geekanex)
+### 🔥 Contrib
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GaneshBorse&theme=github-light&hide_border=true" width="100%" />
+</div>
 
 ---
 
-### 📌 Pinned Projects
-> *Coming soon — will add projects on Python, ML, and DSA.*
+### 📫 Connect
+- 💬 [LinkedIn](https://www.instagram.com/code.ganesh.borse_/ )
+- 💻 [LeetCode](https://leetcode.com/your-id/)  
+- 🐦 [X (Twitter)]( https://x.com/geekanex )  
+- 📸 [Instagram]( https://www.linkedin.com/in/geekanex/)
+ 
 
 ---
+> _“Quiet work. Loud results.”_
 
-<p align="center">
-  🛤️ *Learning in public. One commit at a time.*
-</p>
